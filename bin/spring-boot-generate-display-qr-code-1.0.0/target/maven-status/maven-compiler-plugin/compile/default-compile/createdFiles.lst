@@ -1,0 +1,4 @@
+dev\simplesolution\generateqr\controller\QRCodeController.class
+dev\simplesolution\generateqr\service\impl\QRCodeServiceImpl.class
+dev\simplesolution\generateqr\service\QRCodeService.class
+dev\simplesolution\generateqr\SpringBootGenerateDisplayQrCodeApplication.class
